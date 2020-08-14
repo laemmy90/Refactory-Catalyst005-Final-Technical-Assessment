@@ -1,0 +1,21 @@
+{
+  "name": "k",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "emmy agaba",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "joi": "^17.2.0",
+    "mongoose": "^5.9.29",
+    "nodemon": "^2.0.4"
+  }
+}
